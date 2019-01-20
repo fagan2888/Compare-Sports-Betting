@@ -1,0 +1,32 @@
+basketball/usa/ncaa
+  Total Gms: 3067
+  Upset Pct: 0.21421584610368438
+  Upset Avg: 241.54946727549466
+basketball/usa/nba
+  Total Gms: 800
+  Upset Pct: 0.3175
+  Upset Avg: 197.50393700787401
+basketball/usa/nba-g-league
+  Total Gms: 395
+  Upset Pct: 0.2810126582278481
+  Upset Avg: 145.27027027027026
+american-football/usa/nfl
+  Total Gms: 346
+  Upset Pct: 0.33236994219653176
+  Upset Avg: 186.8608695652174
+tennis/australia/atp-australian-open
+  Total Gms: 243
+  Upset Pct: 0.2551440329218107
+  Upset Avg: 186.59677419354838
+tennis/australia/wta-australian-open
+  Total Gms: 246
+  Upset Pct: 0.1910569105691057
+  Upset Avg: 193.10638297872342
+tennis/france/atp-french-open
+  Total Gms: 244
+  Upset Pct: 0.20491803278688525
+  Upset Avg: 212.2
+tennis/france/wta-french-open
+  Total Gms: 241
+  Upset Pct: 0.26141078838174275
+  Upset Avg: 197.52380952380952
